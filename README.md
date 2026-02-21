@@ -25,7 +25,7 @@ https://github.com/MehdiMoshiri/Memory-Mapped-Files
 سایر نرم‌افزارها می‌توانند این اطلاعات را بدون نیاز به فایل یا شبکه، مستقیماً از حافظه بخوانند.
 
 🔧 نام حافظه مشترک برای ترازوی اول می باشد و برای ترازو های بعدی 2 و3  
-Global\ConnectorMemory1
+ConnectorMemory1
 
 ⚠️ توجه:
 
